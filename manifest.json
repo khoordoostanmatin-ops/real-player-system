@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "REAL PLAYER SYSTEM",
+  "short_name": "Player System",
+  "description": "سیستم پیشرفت شخصی با مأموریت، XP و ارتقای سطح",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050c17",
+  "theme_color": "#071426",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
